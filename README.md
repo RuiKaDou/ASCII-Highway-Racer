@@ -1,0 +1,1 @@
+A real-time reaction racing game. Players control a vehicle driving on a three-lane highway, must avoid enemy vehicles approaching from above. The game uses chrono for precise frame rate control, achieving smooth movement. The score increases over time, and a collision ends the game.
